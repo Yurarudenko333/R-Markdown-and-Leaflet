@@ -1,6 +1,6 @@
 ---
 title: "My First Leaflet Map"
-author: "Rudenko Yrii"
+author: "Rudenko Yuri"
 date: "29 march 2023"
 output: html_document
 ---
